@@ -1,0 +1,5 @@
+{
+  "name": "HealthCare Assistant",
+  "description": "A responsive rule-based healthcare chatbot providing instant medical guidance and appointment information through a clean, interactive interface.",
+  "requestFramePermissions": []
+}
